@@ -43,6 +43,7 @@ body {
 .hero-section{
     background-color: #2e2f42;
 }
+
 .section-title {
    font-size: 56px;
    line-height: 1.07;
@@ -84,11 +85,11 @@ body {
     text-transform: capitalize;
     color: #2e2f42;
 }
-.iamges {
+.images {
     background-color: #FFFFFF;
 }
 .footer-sub-logo {
-    color: ##f4f4fd;
+    color: #f4f4fd;
 }
 .footer-description {
     color: #F4F4FD;
