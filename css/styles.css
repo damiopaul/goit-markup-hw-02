@@ -43,6 +43,11 @@ body {
 .hero-section{
     background-color: #2e2f42;
 }
+.hero-section .section-title {
+    font-size: 56px;
+    line-height: 1.07;
+    color: #ffffff
+}
 
 .section-title {
    font-size: 56px;
